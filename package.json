@@ -1,0 +1,17 @@
+{
+  "name": "highcharts-border-radius",
+  "version": "0.0.0",
+  "description": "Highcharts Border Radius",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellstrand/highcharts-border-radius.git"
+  },
+  "author": "Magnus Bellstrand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bellstrand/highcharts-border-radius/issues"
+  },
+  "homepage": "https://github.com/bellstrand/highcharts-border-radius",
+  "dependencies": {}
+}
