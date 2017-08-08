@@ -21,10 +21,10 @@
 					const x = point.shapeArgs.x;
 					const y = point.shapeArgs.y;
 
-					let radiusTopLeft = H.relativeLength(options.borderRadiusTopLeft || 0, w);
-					let radiusTopRight = H.relativeLength(options.borderRadiusTopRight || 0, w);
-					let radiusBottomRight = H.relativeLength(options.borderRadiusBottomRight || 0, w);
-					let radiusBottomLeft = H.relativeLength(options.borderRadiusBottomLeft || 0, w);
+					var radiusTopLeft = H.relativeLength(options.borderRadiusTopLeft || 0, w);
+					var radiusTopRight = H.relativeLength(options.borderRadiusTopRight || 0, w);
+					var radiusBottomRight = H.relativeLength(options.borderRadiusBottomRight || 0, w);
+					var radiusBottomLeft = H.relativeLength(options.borderRadiusBottomLeft || 0, w);
 
 					const maxR = Math.min(w, h) / 2
 
