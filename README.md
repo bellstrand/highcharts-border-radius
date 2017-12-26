@@ -1,4 +1,4 @@
-# Highchart Rounded Corners
+# Highchart Border Radius
 
 [![npm Version](https://img.shields.io/npm/v/highcharts-border-radius.svg)](https://www.npmjs.com/package/highcharts-border-radius)
 
