@@ -3,7 +3,7 @@
 [![npm Version](https://img.shields.io/npm/v/highcharts-border-radius.svg)](https://www.npmjs.com/package/highcharts-border-radius)
 
 ### Installation
-npm install highcharts-rounded-corners
+npm install highcharts-border-radius
 
 ### Usage
 The plugin adds options for individual border radius to a highchart column chart.
