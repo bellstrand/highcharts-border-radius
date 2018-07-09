@@ -15,6 +15,9 @@ The plugin adds options for individual border radius to a highchart column chart
 
 ### Example
 ```javascript
+const borderRadius = require('highcharts-border-radius')
+borderRadius(Highcharts);
+
 Highcharts.chart('.container', {
 	chart: { type: 'column' },
 	title: { text: 'Highcharts Border Radius' },
