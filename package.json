@@ -1,6 +1,6 @@
 {
   "name": "highcharts-border-radius",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Highcharts Border Radius",
   "main": "index.js",
   "repository": {
