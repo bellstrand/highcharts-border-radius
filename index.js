@@ -14,7 +14,7 @@
 
 			proceed.call(this);
 
-			this.points.forEach((point) => {
+			this.points.forEach(function(point) {
 				if(options.borderRadiusTopLeft || options.borderRadiusTopRight || options.borderRadiusBottomRight || options.borderRadiusBottomLeft) {
 					const w = point.shapeArgs.width;
 					const h = point.shapeArgs.height;
